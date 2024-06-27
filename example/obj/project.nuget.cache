@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YY/CYhXguqY=",
+  "success": true,
+  "projectFilePath": "/home/keyhan/MyWorkspace/midopia/extra/centrifuge-client/example/test.csproj",
+  "expectedPackageFiles": [
+    "/home/keyhan/.nuget/packages/google.protobuf/3.27.2/google.protobuf.3.27.2.nupkg.sha512",
+    "/home/keyhan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/keyhan/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/keyhan/.nuget/packages/microsoft.io.recyclablememorystream/3.0.0/microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
+    "/home/keyhan/.nuget/packages/system.reactive/6.0.0/system.reactive.6.0.0.nupkg.sha512",
+    "/home/keyhan/.nuget/packages/system.threading.channels/8.0.0/system.threading.channels.8.0.0.nupkg.sha512",
+    "/home/keyhan/.nuget/packages/websocket.client/5.1.2/websocket.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
